@@ -1,0 +1,14 @@
+{
+  "name": "rick-and-morty-desktop",
+  "productName": "Rick and Morty",
+  "version": "1.0.0",
+  "description": "Consulta de personajes de Rick and Morty con Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^44.7.2"
+  }
+}
